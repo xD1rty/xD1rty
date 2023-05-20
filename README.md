@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello, user!
 
-<!--
-**xD1rty/xD1rty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am like programming on Python (backend, bots, scripts), JS (frontend) and learning Rust
 
-Here are some ideas to get you started:
+⭐ About me
+* I'm 13
+* I am use Linux since 11 years
+* Use tiling window manager dwm
+* Use NeoVim
+* Like create bots
+* I'm in Moscow (Butovo)
+* Lazy...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💀 My stack
+* JS : React, Next, Tailwind
+* Python : SQLModel, FastAPI, Flask, Aiogram (Developers are clowns, but library very cool)
+* Linux
+* Docker
+* Rust (in learn)
+
+### My stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=xD1rty&theme=calm&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My most used languages
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xD1rty&hide=html,css&langs_count=5&layout=compact&theme=calm&exclude_repo=silaeder-interactive-panel)](https://github.com/anuraghazra/github-readme-stats)
+
