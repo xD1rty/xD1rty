@@ -1,6 +1,6 @@
 ### Hello, user!
 
-🔭 I am like programming on Python (backend, bots, scripts), JS (frontend) and learning Rust
+🔭 I am like programming on Python (backend, bots, scripts), JS (frontend) and learning GoLang
 
 ⭐ About me
 * I'm 13
@@ -16,7 +16,7 @@
 * Python : SQLModel, FastAPI, Flask, Aiogram (Developers are clowns, but library very cool)
 * Linux
 * Docker
-* Rust (in learn)
+* GoLang (in learn)
 
 ### My stats
 
