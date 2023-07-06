@@ -5,14 +5,14 @@
 ⭐ About me
 * I'm 13
 * I am use Linux since 11 years
-* Use tiling window manager dwm
+* Use tiling window manager bspwm (coming soon on github...)
 * Use NeoVim
 * Like create bots
 * I'm in Moscow (Butovo)
 * Lazy...
 
 💀 My stack
-* JS : React, Next, Tailwind
+* JS : React, Next, Tailwind (hate frontend)
 * Python : SQLModel, FastAPI, Flask, Aiogram (Developers are clowns, but library very cool)
 * Linux
 * Docker
